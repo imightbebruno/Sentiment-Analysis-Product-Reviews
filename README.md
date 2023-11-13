@@ -1,5 +1,5 @@
 # Sentiment-Analysis-Product-Reviews
-This project is a customer sentiment analysis of high-end headphones based on Amazon reviews using the TextBlob library in a Python environment. The analysis focuses on identifying common words associated with the product and evaluating the overall sentiment of customer reviews.
+This project is a customer sentiment analysis of high-end headphones based on Amazon reviews using the TextBlob library in a Python environment. 
 
 Filtering reviews based on positive and negative sentiment reveals a general trend of customer satisfaction. Out of 100 reviews analyzed, 90% were positive, indicating a high level of customer satisfaction with the product. The remaining 10% were divided between negative (6%) and neutral (4%) reviews.
 
